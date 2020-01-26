@@ -1,0 +1,173 @@
+body {
+  margin: 10%;
+  font-family: 'Roboto';
+  background-image: url('../Assets/background.jpg');
+
+  color: black;
+
+}
+
+h1 {
+  font-family: 'Open-Sans';
+}
+
+.Act_1 div {
+
+  background-color: black;
+  width: 800px;
+  padding: 15px;
+  color: white;
+
+}
+
+.Act_1 h1 {
+  font-size: 150px;
+}
+
+.Act_2 div {
+  position: relative;
+  left: 40%;
+  background-color: black;
+  color: white;
+  width: 600px;
+  padding: 15px;
+}
+
+#slave {
+  position: relative;
+  left: 50%;
+  bottom: 300px;
+  transform: rotate(30deg);
+}
+
+.Act_2 img {
+  width: 600px;
+}
+
+.Act_2 h1 {
+  font-size: 80px;
+}
+
+.Act_2 h2 {
+  color: #140152;
+}
+
+#wire {
+  position: absolute;
+  top: 1700px;
+  transform:rotate(90deg);
+}
+
+.Act_3 h1 {
+  font-size: 80px;
+  text-align: center;
+  color: #FF1D15;
+}
+
+.Act_3 p {
+  width: 600px;
+  position: relative;
+  left: 27%;
+  display: block;
+  background-color: yellow;
+  padding: 10px;
+}
+
+.Act_4 img {
+  position: absolute;
+}
+
+.Act_5 pre {
+  position: relative;
+  left: 60%;
+}
+
+.Act_5 p {
+  display: block;
+  width: 650px;
+  background-color: yellow;
+  padding: 10px;
+  position: relative;
+  bottom: 50px;
+  transform: rotate(10deg);
+}
+
+.Act_6 {
+  font-size: 100px;
+  display: block;
+  position: relative;
+  left: 20%;
+}
+
+.Act_7 p {
+  font-size: 50px;
+  color: red;
+}
+
+.Act_7 li {
+  font-size: 32px;
+  color: red;
+
+}
+
+#glitch2 {
+  top: 68%;
+  left: 75%;
+  width: 400px;
+}
+
+#glitch3 {
+  top: 80%;
+  left: 60%;
+  width: 300px;
+}
+
+
+#glitch6 {
+  top: 90%;
+  left: 70%;
+  width: 200px;
+}
+
+#loading {
+  display: block;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#hex {
+  display: block;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Act_9 {
+  display: block;
+  width: 1500px;
+  font-size: 100px;
+  background-color: black;
+  color: white;
+}
+
+.Act_9 p {
+  padding: 10px;
+}
+
+.Reflection blockquote {
+  width: 1500px;
+  display: block;
+  background-color: #a0aab2;
+  color: black;
+  padding: 10px;
+  margin: 50px;
+  font-size: 30px;
+}
+
+.Reflection img {
+  width: 700px;
+  position: relative;
+  left: 900px;
+  transform: rotate(10deg);
+}
